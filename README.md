@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://avatars.githubusercontent.com/RavaAchmad" width="225" height="225"/>
+<img src="https://avatars.githubusercontent.com/Hendra088" width="225" height="225"/>
 </p>
 <p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/GaroxBot Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/HendraBot Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/RavaAchmad"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Rava-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Hendra088"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Hendra088-blue.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a href="https://github.com/RavaAchmad/followers"><img title="Followers" src="https://img.shields.io/github/followers/RavaAchmad?color=blue&style=flat-square"></a>
 <a href="https://github.com/RavaAchmad/GaroxBot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RavaAchmad/GaroxBot?color=red&style=flat-square"></a>
@@ -14,11 +14,13 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthoriqazzikra&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
-  
-  
+ 
+<P align="center">
+<img src="https://media.giphy.com/media/mf4qECoTz8ZVK/giphy.gif" width="100%" alt="API Giphy logo"/>
+
   
 <p align="left">
-<a href="https://github.com/RavaAchmad/GaroxBot">
+<a href="https://github.com/Hendra088/Hendra088">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RavaAchmad&repo=GaroxBot&theme=dark" />
   </p>
 
@@ -33,7 +35,7 @@
   
   
  
-<p align="center"><a href="https://wa.me/1212035575?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
+<p align="center"><a href="https://wa.me/6282147078449?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
 </div>
 
 
